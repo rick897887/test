@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneva_web=self.webpackChunkneva_web||[]).push([[32],{8032:(e,n,a)=>{a.r(n),a.d(n,{default:()=>r});var t=a(7294);const r=function(){return t.createElement(t.Fragment,null,"Profile page")}}}]);

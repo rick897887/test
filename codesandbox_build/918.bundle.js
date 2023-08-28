@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneva_web=self.webpackChunkneva_web||[]).push([[918],{4918:(e,n,a)=>{a.r(n),a.d(n,{default:()=>u});var t=a(7294);const u=function(){return t.createElement(t.Fragment,null,"Homepage")}}}]);
